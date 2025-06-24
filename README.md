@@ -61,9 +61,13 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ---
 
-## 🎧 Favorite Album
+## 🎧 Currently Listening
 
-[![Currently Listening](https://img.shields.io/badge/Now_Playing-Homerun_by_Paulo_Londra-orange?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn)
+<a href="https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sound-bars.gif" height="30" />
+  <strong> Homerun - Paulo Londra </strong>
+</a>
+
 
 ---
 
