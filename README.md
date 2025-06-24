@@ -61,11 +61,9 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ---
 
-## 🎧 Now Playing on Spotify
+## 🎧 Favorite Album
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315xwoleza3ceh3pp6rpppmahgri&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true" alt="Spotify Now Playing" />
-</p>
+[![Currently Listening](https://img.shields.io/badge/🎵_Now_Playing-Paulo_Londra_-_Homerun-orange?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn)
 
 ---
 
