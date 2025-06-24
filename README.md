@@ -42,7 +42,7 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 <td width="50%" align="center">
   <img src="https://gh-stats-marcelolml-tan.vercel.app/api?username=Marcelolml&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelolml&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Marcelolml&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </td>
 <td width="50%" align="center">
   <img src="https://gh-stats-marcelolml-tan.vercel.app/api/top-langs/?username=Marcelolml&layout=compact&count_private=true&theme=gruvbox&hide_border=true" alt="Top Languages"/>
@@ -55,8 +55,9 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcelolml&theme=radical&no-frame=true&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcelolml&theme=gruvbox&no-frame=true&column=6&margin-w=15" />
 </p>
+
 
 ---
 
