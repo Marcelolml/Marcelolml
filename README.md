@@ -67,10 +67,7 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 ## 🎧 Currently Listening
 
 <div align="center">
-  <a href="https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sound-bars.gif" height="30" />
-    <strong> Homerun – Paulo Londra </strong>
-  </a>
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 </div>
 
 <div align="right">
