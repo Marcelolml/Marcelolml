@@ -15,7 +15,7 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 ---
 
 
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://tenor.com/view/cat-type-keyboard-gif-9625066">
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2ajBpZHM1czBlc3RhNDg4OGJnZjJkZzk0NHZvNDYzajRkcHFrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif">
 
 
 
