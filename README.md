@@ -64,12 +64,19 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ---
 
-## :headphones: Spotify Playing
+<table>
+  <tr>
+    <td>
+      
+## 🎧 Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
-
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)  
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
-<div align="right">
-  <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="300"/>
-</div>
+</td>
+    <td align="right">
+      <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="200"/>
+    </td>
+  </tr>
+</table>
+
