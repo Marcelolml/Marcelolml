@@ -17,7 +17,6 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :technologist: **Currently working on** `Frontend Development` **&** `Backend Development`
-- :nerd_face: Always believe `"You are what you loved"`
 
 <br>
 
