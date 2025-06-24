@@ -63,7 +63,7 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ## 🎧 Favorite Album
 
-[![Currently Listening](https://img.shields.io/badge/Now_Playing-Paulo_Londra_-_Homerun-orange?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn)
+[![Currently Listening](https://img.shields.io/badge/Now_Playing-Homerun_by_Paulo_Londra-orange?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn)
 
 ---
 
