@@ -14,6 +14,8 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ---
 
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
 ## ⚒️ Tech Stack
 
 ### 🚀 Languages & Frameworks
