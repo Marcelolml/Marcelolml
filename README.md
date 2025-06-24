@@ -64,7 +64,7 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; flex-direction:row; justify-content: space-between; width: 100%; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
 
