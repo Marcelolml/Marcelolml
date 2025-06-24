@@ -8,14 +8,12 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2ajBpZHM1czBlc3RhNDg4OGJnZjJkZzk0NHZvNDYzajRkcHFrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" height="150" alt="giphy gif"/>
+
 I'm a fullstack developer with a strong focus on **backend engineering**, working mainly with `NestJS`, `TypeScript`, `Docker`, and modern API ecosystems.  
 I currently contribute to real-world business applications at [@amdigitalperu](https://github.com/amdigitalperu).  
 I enjoy solving problems, automating workflows, and writing clean, testable code.
 
----
-
-
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2ajBpZHM1czBlc3RhNDg4OGJnZjJkZzk0NHZvNDYzajRkcHFrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif">
 
 
 
@@ -68,9 +66,13 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ## 🎧 Currently Listening
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+<div align="center">
+  <a href="https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sound-bars.gif" height="30" />
+    <strong> Homerun – Paulo Londra </strong>
+  </a>
+</div>
 
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="right">
+  <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="150"/>
+</div>
