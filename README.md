@@ -64,10 +64,8 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 ## 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31udrxldsbqhjh57zluahixxpheu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315xwoleza3ceh3pp6rpppmahgri&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true" alt="Spotify Now Playing" />
 </p>
-
-> ☝️ Replace the `uid` with your own Spotify user ID if this is just placeholder.
 
 ---
 
