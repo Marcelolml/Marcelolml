@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2ajBpZHM1czBlc3RhNDg4OGJnZjJkZzk0NHZvNDYzajRkcHFrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" height="150" alt="giphy gif"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZuOG5kYnhxbzA1enEzMmxibHJya2RmYXU4ZmE5NXFpYWU2M2gxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" height="400" alt="giphy gif"/>
 
 I'm a fullstack developer with a strong focus on **backend engineering**, working mainly with `NestJS`, `TypeScript`, `Docker`, and modern API ecosystems.  
 I currently contribute to real-world business applications at [@amdigitalperu](https://github.com/amdigitalperu).  
@@ -66,10 +66,10 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music]
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 <div align="right">
-  <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="150"/>
+  <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="300"/>
 </div>
