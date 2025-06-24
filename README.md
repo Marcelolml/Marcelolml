@@ -63,20 +63,18 @@ I enjoy solving problems, automating workflows, and writing clean, testable code
 
 
 ---
+<table width="100%">
+  <tr>
+    <td align="left" valign="top">
 
-<div style="display: flex; align-items: center; flex-direction:row; justify-content: space-between; width: 100%; flex-wrap: wrap;">
+## 🎧 Spotify Playing
 
-  <div style="flex: 1; min-width: 250px;">
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)  
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
-  ## 🎧 Spotify Playing
-
-  [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)  
-  [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-
-  </div>
-
-  <div style="flex-shrink: 0; padding-left: 20px;">
-    <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="160"/>
-  </div>
-
-</div>
+</td>
+    <td align="right" valign="middle" width="180">
+      <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="160"/>
+    </td>
+  </tr>
+</table>
