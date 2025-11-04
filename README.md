@@ -10,8 +10,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZuOG5kYnhxbzA1enEzMmxibHJya2RmYXU4ZmE5NXFpYWU2M2gxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" height="400" alt="giphy gif"/>
 
-I'm a fullstack developer with a strong focus on **backend engineering**, working mainly with `NestJS`, `TypeScript`, `Docker`, and modern API ecosystems.  
-I currently contribute to real-world business applications at [@amdigitalperu](https://github.com/amdigitalperu).  
+I'm a fullstack developer with a strong focus on **backend engineering**, working mainly with `NestJS`, `TypeScript`, `Docker`, and modern API ecosystems.   
 I enjoy solving problems, automating workflows, and writing clean, testable code.
 
 
